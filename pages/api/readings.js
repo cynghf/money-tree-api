@@ -18,8 +18,8 @@ const fortunes =
       "day": { "cn": "己酉", "en": "Ji-You" }
     },
     "fortune": {
-      "cn": "山辉火耀，虚饰生财需适度，忌华而不实，终见真金不怕火炼。",
-      "en": "Adornments attract wealth, but substance prevails—flashy gains fade, true value endures."
+      "cn": "文采焕然，虚饰可成一时之美，守朴归真方见大器晚成。",
+      "en": "Adornments gleam briefly, while substance matures slowly—true worth withstands seasons."
     }
   },
   {
@@ -38,8 +38,8 @@ const fortunes =
       "day": { "cn": "庚戌", "en": "Geng-Xu" }
     },
     "fortune": {
-      "cn": "一阳复始，暗财渐显，忌贪快求多，静待春雷唤醒生机。",
-      "en": "New beginnings stir—hidden assets emerge with patience, haste scatters potential."
+      "cn": "一阳初动，暗财渐显端倪，忌揠苗助长，静待春雷破土。",
+      "en": "First yang stirs—hidden assets emerge with patience, forced growth withers potential."
     }
   },
   {
@@ -58,8 +58,8 @@ const fortunes =
       "day": { "cn": "辛亥", "en": "Xin-Hai" }
     },
     "fortune": {
-      "cn": "履险如夷，财路需谨慎开拓，忌大意失察，终得天行健之利。",
-      "en": "Caution turns risks to rewards—vigilance preserves wealth where arrogance loses it."
+      "cn": "如履薄冰，慎行可化险为夷，忌骄矜大意，终见天行健不息。",
+      "en": "Treading thin ice—caution turns risks to rewards, arrogance invites falls."
     }
   },
   {
@@ -79,7 +79,7 @@ const fortunes =
     },
     "fortune": {
       "cn": "密云不雨，蓄财待时而动，忌怨天尤人，终见云开月明。",
-      "en": "Clouds withhold rain—hold resources until the season ripens, frustration clouds judgment."
+      "en": "Clouds gather without rain—wait patiently, and skies will clear in time."
     }
   },
   {
@@ -98,8 +98,8 @@ const fortunes =
       "day": { "cn": "癸丑", "en": "Gui-Chou" }
     },
     "fortune": {
-      "cn": "雷风相薄，恒业生财之道，忌朝令夕改，深耕自有岁稔。",
-      "en": "Steady winds drive mills—wavering changes waste what persistence harvests."
+      "cn": "雷风相薄，持恒生财之道，忌朝三暮四，深耕自有岁稔。",
+      "en": "Wind and thunder persist—steadfast effort wears down mountains."
     }
   },
   {
@@ -160,6 +160,26 @@ const fortunes =
     "fortune": {
       "cn": "春雷化雨，旧债宜清新生，忌执念困局，活水自来财源通。",
       "en": "Spring thunder breaks drought—clearing debts frees new streams of wealth to flow."
+    }
+  },
+  {
+    "date": "2025-04-18",
+    "lunardate": {
+      "cn": "二零二五年三月廿一",
+      "en": "March 21, 2025"
+    },
+    "hexagram": {
+      "primary": { "cn": "风火家人", "en": "Hexagram 37: Jia Ren" },
+      "changed": { "cn": "天火同人", "en": "Hexagram 13: Tong Ren" }
+    },
+    "stems_branches": {
+      "year": { "cn": "乙巳", "en": "Yi-Si" },
+      "month": { "cn": "庚辰", "en": "Geng-Chen" },
+      "day": { "cn": "丁巳", "en": "Ding-Si" }
+    },
+    "fortune": {
+      "cn": "家宅生财，合作利市，忌内部分歧，自有众志成城之利。",
+      "en": "Household harmony breeds wealth—united efforts multiply gains, discord drains them."
     }
   }
 ];
