@@ -2,6 +2,32 @@ export default async function handler(req, res) {
   try {
 const fortunes =
 [
+    {
+    "date": "2025-04-15",
+    "lunardate": {
+      "cn": "二零二五年三月十八",
+      "en": "March 18, 2025"
+    },
+    "hexagram": {
+      "primary": {
+        "symbol": "䷿",  // 水火未济
+        "name": { "cn": "水火未济", "en": "Wei Ji" }
+      },
+      "changed": {
+        "symbol": "䷃",  // 山水蒙
+        "name": { "cn": "山水蒙", "en": "Meng" }
+      }
+    },
+    "stems_branches": {
+      "year": { "cn": "乙巳", "en": "Yi-Si" },
+      "month": { "cn": "庚辰", "en": "Geng-Chen" },
+      "day": { "cn": "甲寅", "en": "Jia-Yin" }
+    },
+    "fortune": {
+      "cn": "火水未交，财机隐而未发，忌半途而废，守成终见柳暗花明。",
+      "en": "Potential waits—perseverance turns obstacles to gateways."
+    }
+  },
   {
     "date": "2025-04-15",
     "lunardate": {
